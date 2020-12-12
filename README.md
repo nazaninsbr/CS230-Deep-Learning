@@ -3,3 +3,4 @@
 
 
 * 001: Loading and visualizing data
+* 002-003: Working with pandas and matplotlib
